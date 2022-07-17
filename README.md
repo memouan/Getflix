@@ -46,6 +46,7 @@ We took inspiration from Netflix.
 
 #### Step 1.
 - Coggle
+
 ![image](https://user-images.githubusercontent.com/104204619/179416779-90f1436e-1b3c-4706-8064-65e3e28284a8.png)
 
 #### Step 2.
