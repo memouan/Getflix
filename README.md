@@ -41,8 +41,30 @@ We took inspiration from Netflix.
 ### Steps
 
 1. We are using Trello and Coggle for the organisation
-2. We've used figma to do a model and analyse the structure of Netflix (style of the header/footer,on wich page are they reused, when does the bg-color change...)
-3.  
+2. We've used Figma to do a model and analyse the structure of Netflix (style of the header/footer,on which page are they reused, when does the bg-color change...)
+3. Once we've a global view, we check every pages we need, and every elements we need on those pages and in which langage we've to write what.
+
+#### Step 1.
+- Coggle
+![image](https://user-images.githubusercontent.com/104204619/179416779-90f1436e-1b3c-4706-8064-65e3e28284a8.png)
+
+#### Step 2.
+
+- Figma 
+Link to our [Figma](https://www.figma.com/file/UjlCZmFqabCex9HTEvBGxj/Getflix?node-id=0%3A1)
+
+
+<img width="1288" alt="footer" src="https://user-images.githubusercontent.com/104204619/179416842-84bef49b-8335-4667-8bbc-a210083b9d64.png">
+<img width="1680" alt="homePageFilmGenre" src="https://user-images.githubusercontent.com/104204619/179416851-0f204a3f-86be-4b31-9354-1033b0db1f35.png">
+<img width="1680" alt="homePageNewmostview" src="https://user-images.githubusercontent.com/104204619/179416858-94850899-d8e6-4d13-9f19-8c37f24c81d1.png">
+<img width="1680" alt="homePageSerieGenre" src="https://user-images.githubusercontent.com/104204619/179416863-caa73fd6-342c-4f52-a11a-9992b477f8de.png">
+<img width="621" alt="rechercheBar" src="https://user-images.githubusercontent.com/104204619/179416869-01ef8756-c9d8-4163-947c-f5d9ead85c4e.png">
+<img width="348" alt="rechercheBarCustomer" src="https://user-images.githubusercontent.com/104204619/179416879-36a4dcb4-5768-4161-b983-90525363b22f.png">
+
+#### Step 3.
+
+- Trello
+https://trello.com/b/q6ag3pka/getflix
 
 ## Evaluation criterias
 
