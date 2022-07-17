@@ -53,18 +53,24 @@ We took inspiration from Netflix.
 - Figma 
 Link to our [Figma](https://www.figma.com/file/UjlCZmFqabCex9HTEvBGxj/Getflix?node-id=0%3A1)
 
-
+- Footer inspiration
 <img width="1288" alt="footer" src="https://user-images.githubusercontent.com/104204619/179416842-84bef49b-8335-4667-8bbc-a210083b9d64.png">
+
+-Navbar and profil inspiration
+<img width="621" alt="rechercheBar" src="https://user-images.githubusercontent.com/104204619/179416869-01ef8756-c9d8-4163-947c-f5d9ead85c4e.png">
+<img width="348" alt="rechercheBarCustomer" src="https://user-images.githubusercontent.com/104204619/179416879-36a4dcb4-5768-4161-b983-90525363b22f.png">
+
+- Home page inspiration
 <img width="1680" alt="homePageFilmGenre" src="https://user-images.githubusercontent.com/104204619/179416851-0f204a3f-86be-4b31-9354-1033b0db1f35.png">
 <img width="1680" alt="homePageNewmostview" src="https://user-images.githubusercontent.com/104204619/179416858-94850899-d8e6-4d13-9f19-8c37f24c81d1.png">
 <img width="1680" alt="homePageSerieGenre" src="https://user-images.githubusercontent.com/104204619/179416863-caa73fd6-342c-4f52-a11a-9992b477f8de.png">
-<img width="621" alt="rechercheBar" src="https://user-images.githubusercontent.com/104204619/179416869-01ef8756-c9d8-4163-947c-f5d9ead85c4e.png">
-<img width="348" alt="rechercheBarCustomer" src="https://user-images.githubusercontent.com/104204619/179416879-36a4dcb4-5768-4161-b983-90525363b22f.png">
+
+
 
 #### Step 3.
 
 - Trello
-https://trello.com/b/q6ag3pka/getflix
+Link to our [Trello](https://trello.com/b/q6ag3pka/getflix)
 
 ## Evaluation criterias
 
