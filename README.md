@@ -51,7 +51,8 @@ We took inspiration from Netflix.
 
 #### Step 2.
 
-- Figma 
+- Figma
+ 
 Link to our [Figma](https://www.figma.com/file/UjlCZmFqabCex9HTEvBGxj/Getflix?node-id=0%3A1)
 
 - Footer inspiration
@@ -71,6 +72,7 @@ Link to our [Figma](https://www.figma.com/file/UjlCZmFqabCex9HTEvBGxj/Getflix?no
 #### Step 3.
 
 - Trello
+
 Link to our [Trello](https://trello.com/b/q6ag3pka/getflix)
 
 ## Evaluation criterias
