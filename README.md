@@ -43,6 +43,7 @@ We took inspiration from Netflix.
 1. We are using Trello and Coggle for the organisation
 2. We've used Figma to do a model and analyse the structure of Netflix (style of the header/footer,on which page are they reused, when does the bg-color change...)
 3. Once we've a global view, we check every pages we need, and every elements we need on those pages and in which langage we've to write what.
+4. We're trying to set up Docker
 
 #### Step 1.
 - Coggle
