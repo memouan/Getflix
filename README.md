@@ -74,6 +74,9 @@ Link to our [Figma](https://www.figma.com/file/UjlCZmFqabCex9HTEvBGxj/Getflix?no
 
 - Trello
 
+![image](https://user-images.githubusercontent.com/104204619/179460849-062d9252-c926-4172-af51-e9d22264bb3c.png)
+
+
 Link to our [Trello](https://trello.com/b/q6ag3pka/getflix)
 
 ## Evaluation criterias
