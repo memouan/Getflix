@@ -48,6 +48,9 @@ We took inspiration from Netflix.
 #### Step 1.
 - Coggle
 
+![image](https://user-images.githubusercontent.com/104204619/179460582-1d00b3d4-ce62-4df3-a1f5-1988e41b794e.png)
+
+
 ![image](https://user-images.githubusercontent.com/104204619/179416779-90f1436e-1b3c-4706-8064-65e3e28284a8.png)
 
 #### Step 2.
