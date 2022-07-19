@@ -45,12 +45,13 @@ We took inspiration from Netflix.
 3. Once we've a global view, we check every pages we need, and every elements we need on those pages and in which langage we've to write what.
 4. We're trying to set up Docker
 
-#### Step 1.
+#### Tool 1.
+
 - Coggle
 
 ![image](https://user-images.githubusercontent.com/104204619/179460582-1d00b3d4-ce62-4df3-a1f5-1988e41b794e.png)
 
-#### Step 2.
+#### Tool 2.
 
 - Figma
  
@@ -70,7 +71,7 @@ Link to our [Figma](https://www.figma.com/file/UjlCZmFqabCex9HTEvBGxj/Getflix?no
 
 
 
-#### Step 3.
+#### Tool 3.
 
 - Trello
 
