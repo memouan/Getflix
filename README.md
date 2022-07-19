@@ -1,6 +1,6 @@
 # Getflix project
 
-- Repository: `getflixProject`
+- Repository: [Getflix](https://github.com/memouan/Getflix)
 - Type of Challenge:  `Consolidation`
 - Duration: `12 days`
 - Deadline: `05/08/22 09:00 AM`
