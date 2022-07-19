@@ -6,7 +6,7 @@
 - Deadline: `05/08/22 09:00 AM`
 - FORM: coming soon
 - Deployment strategy :
-  - Like you want
+  - Not decided yet
 - Team challenge : Max 4
   - frontend: 1
   - backend: 2
