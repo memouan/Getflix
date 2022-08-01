@@ -1,72 +1,95 @@
 # Getflix project
 
-Repository: getflixProject
-Type of Challenge: Consolidation
-Duration: 12 days
-Deadline: 05/08/22 09:00 AM
-FORM: coming soon
-Deployment strategy :
-Like you want
-Team challenge : Max 4
-frontend: 1
-backend: 2
-project management : 1
-Mission objectives
+- Repository: [Getflix](https://github.com/memouan/Getflix)
+- Type of Challenge:  `Consolidation`
+- Duration: `12 days`
+- Deadline: `05/08/22 09:00 AM`
+- FORM: coming soon
+- Deployment strategy :
+  - Not decided yet
+- Team challenge : Max 4
+  - frontend: 1
+  - backend: 2
+  - project management : 1
 
-Now is the time to take stock of everything you've learned so far and add a layer at the same time!
+## Mission objectives 
 
-And what could be better for this than putting it into practice :)
+Now is the time to take stock of everything we've learned so far and  putting it into practice! 
 
-The Mission
+## The Mission
 
-In this exercise you must create a Streaming site in html / css, javascript and php.
+In this exercise we must create a Streaming site in html / css, javascript and php.
 
-Get inspired by Netflix, Amazon Prime Video and other Popcorn Time, Stremio ... The goal is to display a catalog of movies. Spot the similarities between these platforms (navbar, header, search tool, different categories of videos…) See what is cool and what works.
+We took inspiration from Netflix.
 
-Must-have features
+### Must-have features
 
-A session system: registration, connection / disconnection.
-Different rights: registrants have the right to comment on the content. You can add other rights depending on the different types of users.
-Include a search bar and sort by filters
-Make a secure code
-Deploy the site. PHP is not supported by github, find free alternatives.
-Nice-to-have features
+- A session system: registration, connection / disconnection.
+- Different rights: registrants have the right to comment on the content. You can add other rights depending on the different types of users.
+- A carousel with videos that will not be hosted by you, a simple link to the Youtube trailer will suffice
+- Include a search bar and sort by filters
+- Make a secure code
+- Deploy the site. PHP is not supported by github, find free alternatives.
 
-Management of lost passwords.
-Back office for user and comment management (CRUD).
-Create a page or section that displays the top movies with the movie db API.
-Integrate a newsletter with Mailchimp.
-Miscellanous information
+### Nice-to-have features
 
-The videos will not be hosted by you, a simple link to the Youtube trailer will suffice.
-Deliverables
+- Management of lost passwords.
+- Back office for user and comment management (CRUD).
+- Create a page or section that displays the top movies with the movie db API.
+- Integrate a newsletter with Mailchimp.
 
-Publish your source code on the GitHub repository.
-Pimp up the readme file:
-What, Why, When, How, Who.
-Pending things to do
-It must contain a link to the "live" version. The "live" version must contain a link to the source code on GitHub.
-Publish the link to the "live" version on Discord.
-Steps
+### Steps
 
-Get organized. Discuss, define tasks, choose a git master, a schedule, deadlines ...
-Use Trello, google agenda ... to help you.
-Define your work methodology.
-Study the request (What & Why ?)
-Identify technical challenges (How ?)
-Make models, diagrams of the database. Do all the research beforehand. Do not start coding before your project is studied from a to z.
-Give briefings / debriefings, put a lot on communication, this is the key.
-Comment out all of your code. Without comments it will be very difficult for you to work together.
-Don't just do what you can, get out of your comfort zone.
-Each member of the team must work on the whole project.
-Evaluation criterias
+1. We are using Trello and Coggle for the organisation
+2. We've used Figma to do a model and analyse the structure of Netflix (style of the header/footer,on which page are they reused, when does the bg-color change...)
+3. Once we've a global view, we check every pages we need, and every elements we need on those pages and in which langage we've to write what.
+4. We're trying to set up Docker
+5. MySQL for database
 
-Criteria	Indicator	Yes/No
-1. Is complete	The student has realized all must-have features.	
-There is a published GitHub page available.	
-The code is well indented and commented	
-The readme is clean and complete	
-At least one Nice-to-have features is ok	
-2. Is Correct	The HTML and CSS pass the W3C Validation tool.	
-The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO.	
-The code is well indented and commented	
+#### Tool 1.
+
+- Coggle
+
+![image](https://user-images.githubusercontent.com/104204619/179460582-1d00b3d4-ce62-4df3-a1f5-1988e41b794e.png)
+
+#### Tool 2.
+
+- Figma
+ 
+Link to our [Figma](https://www.figma.com/file/UjlCZmFqabCex9HTEvBGxj/Getflix?node-id=0%3A1)
+
+- Footer inspiration
+<img width="1288" alt="footer" src="https://user-images.githubusercontent.com/104204619/179416842-84bef49b-8335-4667-8bbc-a210083b9d64.png">
+
+-Navbar and profil inspiration
+<img width="621" alt="rechercheBar" src="https://user-images.githubusercontent.com/104204619/179416869-01ef8756-c9d8-4163-947c-f5d9ead85c4e.png">
+<img width="348" alt="rechercheBarCustomer" src="https://user-images.githubusercontent.com/104204619/179416879-36a4dcb4-5768-4161-b983-90525363b22f.png">
+
+- Home page inspiration
+<img width="1680" alt="homePageFilmGenre" src="https://user-images.githubusercontent.com/104204619/179416851-0f204a3f-86be-4b31-9354-1033b0db1f35.png">
+<img width="1680" alt="homePageNewmostview" src="https://user-images.githubusercontent.com/104204619/179416858-94850899-d8e6-4d13-9f19-8c37f24c81d1.png">
+<img width="1680" alt="homePageSerieGenre" src="https://user-images.githubusercontent.com/104204619/179416863-caa73fd6-342c-4f52-a11a-9992b477f8de.png">
+
+
+
+#### Tool 3.
+
+- Trello
+
+![image](https://user-images.githubusercontent.com/104204619/179460849-062d9252-c926-4172-af51-e9d22264bb3c.png)
+
+
+Link to our [Trello](https://trello.com/b/q6ag3pka/getflix)
+
+## Evaluation criterias
+
+| Criteria       | Indicator                                                    | Yes/No |
+| -------------- | ------------------------------------------------------------ | ------ |
+| 1. Is complete | The student has realized all must-have features.             |        |
+|                | There is a published GitHub page available.                  |        |
+|                | The code is well indented and commented                      |        |
+|                | The readme is clean and complete                             |        |
+|                | At least one Nice-to-have features is ok                     |        |
+| 2. Is Correct  | The HTML and CSS pass the W3C Validation tool.               |        |
+|                | The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO. |        |
+|                | The code is well indented and commented                      |        |
