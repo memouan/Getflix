@@ -22,7 +22,7 @@ require_once('./config.php');
             $lastname                 = $_POST['lastName'];
             $username                = $_POST['userName'];
             $email                       = $_POST['email'];
-            $password                = $_POST['password'];
+            $password                = md5($_POST['password']);
             $confirmpassword    = $_POST['confirmPass'];
 
             $sql = 'INSERT INTO users (firstname, lastname, username, email, password, confirmpassword) VALUES (:first, :last, :user, :email, :pwd, :pwd2)';
