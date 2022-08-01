@@ -47,7 +47,7 @@
             }
         }
         ?>
-        <form action="#" method="POST">
+        <form action="../index.php" method="POST">
             <div class="textbox">
                 <i class="fas fa-user"></i>
                 <input type="text" placeholder="Username" name="username">

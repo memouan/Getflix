@@ -12,29 +12,29 @@ require './config.php';
 
 if (isset($_POST['email'])) {
 
-        $emailTo = $_POST['email'];
+    $emailTo = $_POST['email'];
 
-        $code = uniqid(true);
+    $code = uniqid(true);
 
-        $sql = 'INSERT INTO resetpasswords (code, email) VALUES ( :code, :email)';
+    $sql = 'INSERT INTO resetpasswords (code, email) VALUES ( :code, :email)';
 
-        $stmtinsert = $db->prepare($sql);
+    $stmtinsert = $db->prepare($sql);
 
-        $result = $stmtinsert->execute([
+    $result = $stmtinsert->execute([
 
         ':code' => $code,
 
         ':email' => $emailTo
 
-        ]);
+    ]);
 
-        if ($result) {
+    if ($result) {
 
         echo "Code inserted successfully.";
-        } else {
+    } else {
 
         echo "Error creating user.";
-}
+    }
 
     //Create an instance; passing `true` enables exceptions
     $mail = new PHPMailer(true);
@@ -46,7 +46,11 @@ if (isset($_POST['email'])) {
         $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
         $mail->Username   = 'omarmaad90@gmail.com';                     //SMTP username
+
+        $mail->Password   = 'mbhywoekfvygllbt';                               //SMTP password
+
         $mail->Password   = '';                               //SMTP password
+
         $mail->SMTPSecure = 'tls';            //Enable implicit TLS encryption
         $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
@@ -66,10 +70,10 @@ if (isset($_POST['email'])) {
 
         $mail->send();
         echo 'Reset Password Link has been sent to your email';
-        } catch (Exception $e) {
+    } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-}
-exit();
+    }
+    exit();
 }
 
 ?>
